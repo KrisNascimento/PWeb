@@ -1,0 +1,62 @@
+
+
+PROGRAMAÇÃO WEB
+Ética na Internet das Coisas
+
+
+
+Prof.ª Denilce de Almeida
+Disciplina: Programação WEB
+ 
+Krisângela do Nascimento     0030481923043
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorocaba
+Agosto/2021
+
+1.	INTRODUÇÃO
+	A Internet das Coisas (Internet of Things) é uma tecnologia composta por objetos físicos que, geralmente, possuem sensores e estão conectados a uma rede. Isso permite que eles possam enviar e receber dados a todo momento. Eles são bem mais comuns do que se imagina, mas o seu conceito não deve ser confundido com objetos que possuem um navegador instalado e podem acessar a internet. Por exemplo, uma geladeira que possui uma tela e possibilita o acesso a receitas ou assistir tutoriais no Youtube não é um dispositivo IoT. Atualmente, já existem geladeiras capazes de sincronizar o estoque de alimentos com a média de consumo e a preparação de refeições. Com isso, ela envia notificações informando o momento certo de repor os alimentos. Com a Internet das Coisas, mais dispositivos, até mesmo produtos inacabados, serão enriquecidos por tecnologias computacionais próprias e conectados usando tecnologias padrão, isso permite que estes dispositivos se comuniquem e interajam uns com os outros e com controladores mais centralizados, de acordo a necessidade. Também descentraliza a análise e a tomada de decisões, permitindo respostas em tempo real.
+	A humanidade deu grandes passos desde a descoberta do fogo e a invenção da roda até o pequeno espaço que ainda nos separa da totalidade da Sociedade 5.0, mas que traz, em um dos pilares da Indústria 4.0, a IoT. As conexões, antes tão difíceis e de acesso para poucos privilegiados, hoje já nem precisam de fios. O que une duas ou mais pessoas em extremos do globo terrestre é invisível, tangível, apenas, através da visualização. Das conexões seguimos para as coisas internetizadas, conectadas, inteligentes até certo ponto. A Internet das Coisas revoluciona a maneira de pensar, agir e realizar as mais básicas tarefas, como, por exemplo, a reposição de mantimentos guardados em uma geladeira.
+
+2.	ENTRE HIPERCONECTIVIDADE E PRIVACIDADE
+	O trabalho manual perde cada vez mais espaço, o tecnológico à distância substitui e facilita as mais diversas tarefas. Tudo que gira em torno da internet e das redes tem se tornado cada vez mais necessário. Temos uma população idosa que é foco de empresas que desenvolvem produtos especificamente para tal faixa etária, escolas informatizadas e conectadas. Redes com alcance cada vez maior e, em meio a tudo isso, não parece existir um limite claro entre a hiperconectividade e a privacidade do usuário, restando uma linha tênue a ser interpretada, tanto por quem desenvolve a interface quanto pelo cliente final.
+	Para garantir a segurança do usuário, leis têm sido criadas e aplicadas a fim de delimitar o alcance de determinadas tecnologias que, segundo Yuval Harari, poderão ‘hackear’ os seres humanos. As tecnologias disruptivas, assim chamadas por quebrarem padrões ou modelos estabelecidos pelo mercado, chegaram para ficar e, em meio à necessidade cada vez maior de produtos que se apresentem sustentáveis e altamente tecnológicos, o risco de perder o controle ético e moral de determinadas aplicações se torna cada vez maior, já que a dependência tecnológica dos usuários se torna cada dia mais real, tendo em vista que a tecnologia se tornou grande facilitadora da humanidade.
+	A despeito dos enormes benefícios e das facilidades proporcionadas pela IoT, a sua utilização tem suscitado grandes dúvidas e receios no campo da privacidade, sobretudo em vista da massiva quantidade de dados sujeita a tratamento, em especial os dados pessoais sensíveis, ou seja, dados sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural (art. 5o, II, da lei 13.709/2018, a Lei Geral de Proteção de Dados, "LGPD"). Vale destacar que, nessa seara, entram também os dados pessoais equiparados a dados pessoais sensíveis, assim entendidos como aqueles que possam revelar dados pessoais sensíveis (art. 11, § 1o, LGPD).
+	Para além disso, o uso da IoT traz uma série de desafios, dentre os quais merecem destaque:
+•	Dependência do usuário: os usuários estão cada vez mais imersos e dependentes da IoT;
+•	Dispersão: há enorme dificuldade de se rastrear e identificar os prestadores de serviço de IoT, que no mais das vezes estão localizados em países diversos daqueles em que os dados são coletados;
+•	Novos modelos de negócio: o uso da IoT exigirá a criação de novos modelos de negócio, que contemplem os novos tipos de dados disponíveis;
+•	Identidade: cada um dos bilhões de dispositivos de IoT deverá ter uma identificação própria para se conectar à rede, o que tende a acarretar problemas relacionados à identidade;
+•	Exposição excessiva: dispositivos de IoT tendem a estar constantemente conectados à rede, resultando em uma quantidade massiva de dados (big data), que ficará exposta a ataques e vazamentos;
+•	Comportamento autônomo e inesperado: os bilhões de dispositivos de IoT, juntamente com outros dispositivos e sensores, formarão uma rede híbrida e interconectada que poderá interferir em ações humanas, gerando comportamentos ambíguos de difícil compreensão pelo usuário; e
+•	Governança: o número considerável de roteadores, switches e informações tornará a troca de dados mais rápida e barata, dificultando o monitoramento e controle da IoT, sobretudo diante do princípio da accountability3.
+		Diante disso, de modo a enfrentar tais desafios e viabilizar um crescimento ordenado e seguro da IoT, muito se tem discutido sobre moral e ética, ou seja, a fixação de padrões mínimos de comportamento social na utilização da IoT, sobretudo no que diz respeito à privacidade, acessibilidade e integridade das informações.
+		As maiores preocupações referem-se à correta identificação do titular e à obtenção de sua autorização para o tratamento dos dados, bem como à imposição de limites na coleta de informações dos usuários, com a definição do que deve ser considerado dado público e privado, considerando a hiperconectividade proporcionada pela IoT. O ideal é que diretrizes mínimas sejam fixadas desde logo, de modo a que a IoT se desenvolva em um ambiente estruturado e saudável, que permita a exploração de todas as suas potencialidades, mas sempre com os olhos voltados para a premissa maior de preservação dos direitos dos usuários.
+		Trata-se de um enorme desafio, em especial devido ao dinamismo da internet e à velocidade com que as mudanças ocorrem no mundo digital, cuja regulamentação jurídica certamente exigirá elevado grau de desprendimento frente a princípios tradicionais de direito, levando ao surgimento de novos paradigmas, que possam melhor tutelar essa nova realidade que nos cerca.
+
+3.	CONCLUSÃO
+	Tendo em vista todos os benefícios que a tecnologia e as suas facilidades trazem à humanidade, as ferramentas, mesmo que disruptivas, serão negociáveis em poucos aspectos, cabendo, majoritariamente, aos países coordenar as ações e os acessos, bem como a legislação que regerá as aplicações das mais diversas tecnologias.
+
+4.	REFERÊNCIAS BIBLIOGRÁFICAS
+
+HARARI, Yuval. HARARI: TECNOLOGIA DEU AOS HUMANOS PODERES DIVINOS, E ISSO É PERIGOSO. 2019. Disponível em: https://www.uol.com.br/tilt/noticias/redacao/2019/11/11/escritor-yuval-harari-roda-viva-entrevista.htm. Acesso em: 04 agosto 2021.
+
+O DESENVOLVIMENTO DA INTERNET DAS COISAS EXIGIRÁ O ESTABELECIMENTO DE LIMITES MORAIS E ÉTICOS. Disponível em: https://www.migalhas.com.br/coluna/impressoes-digitais/320958/o-desenvolvimento-da-internet-das-coisas-exigira-o-estabelecimento-de-limites-morais-e-eticos. Acesso em: 04 agosto 2021.
+
+SIGGA Technologies. OS 9 PILARES DA INDÚSTRIA 4.0 – VOCÊ CONHECE TODOS ELES?, 2020. Disponível em: https://sigga.com.br/blog/os-pilares-da-industria-4-0/. Acesso em: 04 agosto 2021.
+

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Pesquisinha</title>
+    <script src='./index.js'></script>
+</head>
+
+<body>
+    <form action="" method="POST" name="formulario1" id="formulario1" onsubmit="return validarDados();">
+
+        <div id="principal" width=200 heigth=200 align=center>
+            Nome Completo:
+            <input name="idNome" type="text" id="idNome" size="52" maxlength="150">
+            <br>
+            <br> E-Mail :
+            <input name="idEmail" type="email" id="idEmail" size="52" maxlength="150">
+            <br>
+            <br> Comentário :
+            <textarea name="idMensagem" cols="50" rows="8" id="idMensagem" value="" input></textarea>
+            <br>
+            <br>
+            
+                <div>
+                    <label>Pesquisa: </label>
+                    <input type="radio" id="sim" name="pesquisa" value="1">Sim
+
+                    <input type="radio" id="nao" name="pesquisa" value="2">Não
+                </div>
+            <br>
+            <input name="Submit" type="submit" form="formulario1" value="Enviar">
+            <input name="Reset" type="reset" form="formulario1" value="Limpar">
+        </div>
+    </form>
+</body>
+
+</html>
